@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'NafeesNastaleeqv102';
 	src: url('https://cdn.rawgit.com/shakeebahmad95/SaadNastaleeq/b8f9878d/NafeesNastaleeqv102.eot');
-	src: local('NafeesNastaleeqv102'), url('./NafeesNastaleeqv102.woff') format('woff'), url('./NafeesNastaleeqv102.ttf') format('truetype');
+	src: local('NafeesNastaleeqv102'), url('https://cdn.rawgit.com/shakeebahmad95/SaadNastaleeq/828a9b96/NafeesNastaleeqv102.woff') format('woff'), url('https://cdn.rawgit.com/shakeebahmad95/SaadNastaleeq/828a9b96/NafeesNastaleeqv102.ttf') format('truetype');
 }
 /* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_32358">Text with this font applied</p> */
 .fontsforweb_fontid_32358 {
