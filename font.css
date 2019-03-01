@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'saad';
-	src: url('https://cdn.jsdelivr.net/gh/shakeebahmad95/SaadNastaleeq@b8f9878d5098816635bc8d9919aaa27fb96bd232/NafeesNastaleeqv102.eot');
-	src: local('saad'), url('https://cdn.jsdelivr.net/gh/shakeebahmad95/SaadNastaleeq@828a9b963eda55154e84a6a8c6ff0050ac43704d/NafeesNastaleeqv102.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/shakeebahmad95/SaadNastaleeq@828a9b963eda55154e84a6a8c6ff0050ac43704d/NafeesNastaleeqv102.ttf') format('truetype');
+	src: url('https://cdn.jsdelivr.net/gh/shakesvision/SaadNastaleeq@b8f9878d5098816635bc8d9919aaa27fb96bd232/NafeesNastaleeqv102.eot');
+	src: local('saad'), url('https://cdn.jsdelivr.net/gh/shakesvision/SaadNastaleeq@828a9b963eda55154e84a6a8c6ff0050ac43704d/NafeesNastaleeqv102.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/shakesvision/SaadNastaleeq@828a9b963eda55154e84a6a8c6ff0050ac43704d/NafeesNastaleeqv102.ttf') format('truetype');
 }
 /* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_32358">Text with this font applied</p> */
 .fontsforweb_fontid_32358 {
